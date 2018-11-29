@@ -16,8 +16,6 @@ nerdcommenter, svnj.vim, undotree, vim-airline-themes, vim-fugitive,
 vim-snipmate, fzf.vim, lh-vim-lib, nerdtree, tagbar, vim-addon-mw-utils,                                                
 vim-easy-align, vim-language-p4, vim-snippetsnot
 
-Script to install all will follow
-
 ## Additional tmux plugins
 
 * [tpm](https://github.com/tmux-plugins/tpm) 
